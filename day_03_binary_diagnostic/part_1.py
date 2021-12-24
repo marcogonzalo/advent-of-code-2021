@@ -3,7 +3,6 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from utils.input_reader import *
-from collections import defaultdict
 
 def calc_rates(diagnostic_report):
     row_len = len(diagnostic_report[0])
