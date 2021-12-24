@@ -8,3 +8,6 @@
 [Day 2 - Dive!](https://adventofcode.com/2021/day/2):
 - [Solution Part 1](day_02_dive/part_1.py)
 - [Solution Part 2](day_02_dive/part_2.py)
+
+[Day 3 - Binary diagnostic](https://adventofcode.com/2021/day/3):
+- [Solution Part 1](day_03_binary_diagnostic/part_1.py)
