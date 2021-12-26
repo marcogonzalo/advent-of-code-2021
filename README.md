@@ -12,3 +12,6 @@
 [Day 3 - Binary Siagnostic](https://adventofcode.com/2021/day/3):
 - [Solution Part 1](day_03_binary_diagnostic/part_1.py)
 - [Solution Part 2](day_03_binary_diagnostic/part_2.py)
+
+[Day 4 - Giant Squid](https://adventofcode.com/2021/day/4):
+- [Solution Part 1](day_04_giant_squid/part_1.py)
